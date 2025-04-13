@@ -8,6 +8,7 @@ This project explores optimal investment strategies using Merton's continuous-ti
 ### 🏫 Conducted at  
 **Frankfurt School of Finance and Management**  
 Fall 2024 — Supervised by Prof. Jan Vecer
+📌 This project was created as part of an academic course at Frankfurt School of Finance and Management. It is shared here for educational and portfolio purposes only.
 
 ---
 
