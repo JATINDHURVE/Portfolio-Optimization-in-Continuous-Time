@@ -1,25 +1,25 @@
-# 📊 Portfolio Optimization in Continuous Time
+# Portfolio Optimization in Continuous Time
 
 **Short Description:**  
 This project explores optimal investment strategies using Merton's continuous-time portfolio theory and Bayesian enhancements, applied to Dow Jones Industrial Average (DJIA) stocks and G10 currency triplets. It combines quantitative modeling, real market data, and statistical analysis to assess profitability and hedging effectiveness.
 
 ---
 
-### 🏫 Conducted at  
+### Conducted at  
 **Frankfurt School of Finance and Management**  
 Fall 2024 — Supervised by Prof. Jan Vecer
 
 ---
-📌 This project was created as part of an academic course at Frankfurt School of Finance and Management. It is shared here for educational and portfolio purposes only.
+This project was created as part of an academic course at Frankfurt School of Finance and Management. It is shared here for educational and portfolio purposes only.
 
-## 📁 Project Structure
+## Project Structure
 
 This repository contains a single Jupyter notebook:
 - `Portfolio_optimization.ipynb`: A complete, self-contained Python notebook that implements all parts of the project using real financial and FX data.
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 The project is divided into **two parts**:
 
@@ -68,7 +68,7 @@ The project is divided into **two parts**:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python** (Jupyter Notebook)
 - `pandas`, `numpy`, `matplotlib`, `yfinance`
@@ -77,7 +77,7 @@ The project is divided into **two parts**:
 
 ---
 
-## 📈 Results
+## Results
 
 - In-depth performance comparisons between Merton, Markowitz, and fully risky portfolios
 - Effective hedge verification
